@@ -1,0 +1,2 @@
+AAPL Stock Data - https://www.kaggle.com/varpit94/apple-stock-data-updated-till-22jun2021
+AAPL Reddit Data - https://www.kaggle.com/pavellexyr/five-years-of-aapl-on-reddit
